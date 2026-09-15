@@ -1,4 +1,4 @@
-Tech Stack: Flutter, Dart, Firebase Firestore, NETS QR API
+Tech Stack: Flutter, Dart, Groq AI API, Firebase Firestore, NETS QR API
 
 Core Engineering: Engineered a cross-platform mobile UI in Flutter/Dart integrated with Firebase Firestore for real-time state management and data persistence.
 
